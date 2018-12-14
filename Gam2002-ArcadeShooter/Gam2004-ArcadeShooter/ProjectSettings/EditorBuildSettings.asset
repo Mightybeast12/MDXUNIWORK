@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 9e0398434d0aa904587dd2a63a900c80
+  - enabled: 1
+    path: Assets/Scenes/ShipSelectScene.unity
+    guid: f8184dfe07f90164eb094f409de99a23
+  - enabled: 1
+    path: Assets/Scenes/ShotGunScene.unity
+    guid: 3d4a37e174c800545a814bd5fb75ec0d
+  - enabled: 1
+    path: Assets/Scenes/BoomerangScene.unity
+    guid: bc8112b8ebae63c4e8a36ffecde27a70
+  - enabled: 1
+    path: Assets/Scenes/DoubleTapScene.unity
+    guid: b77c6eb8b413a2747837cefa253f40e1
+  - enabled: 1
+    path: Assets/Scenes/BossSTage.unity
+    guid: b4cef4bc635990c4c97ff3f61abf940a
+  - enabled: 1
+    path: Assets/Scenes/BossSEctionSelectScene.unity
+    guid: a112887d17eacea46a049110468e6f20
+  - enabled: 1
+    path: Assets/Scenes/BossSTage2.unity
+    guid: c18843978afab0943af1c2db0deb1cb7
+  - enabled: 1
+    path: Assets/Scenes/BossSTage3.unity
+    guid: 599a996b732bded49b1648d98dd4af26
+  m_configObjects: {}
